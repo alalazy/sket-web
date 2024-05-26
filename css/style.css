@@ -316,7 +316,7 @@ list-style: none;
 }*/
 .callbacks_container {
 position: relative;
-float: left;
+float: center;
 width: 100%;
 }
 .callbacks {
